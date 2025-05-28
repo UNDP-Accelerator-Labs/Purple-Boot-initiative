@@ -86,13 +86,13 @@ Follow these steps to set up the UNDP Accelerator Labs Toolkit Micro-site locall
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/UNDP-Accelerator-Labs/toolkit-micro-site-template.git
+   git clone https://github.com/UNDP-Accelerator-Labs/Purple-Boot-initiative.git
    ```
 
 2. **Navigate to the Repository**:
 
    ```bash
-   cd toolkit-micro-site-template
+   cd Purple-Boot-initiative
    ```
 
 3. **Install Dependencies**:
