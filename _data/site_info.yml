@@ -1,26 +1,25 @@
-title: UNDP AccLab Toolkit Micro-site template
+title: Purple Boot Initiative
 description: >
-  Welcome to the UNDP AccLab Toolkit Micro-site project! This README provides a quick guide on how to set up and customize your Toolkit site.
+  Welcome to the UNDP Purple Boot Initiative.
 
 header_background_color: "#FF5733"
 
-header_info_text: "This is a template for creating a toolkit. You can contribute to the this on <a href='https://github.com/UNDP-Accelerator-Labs/toolkit-micro-site-template' target='_blank'>Github.</a>."
-logo_image_path: "/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"
+header_info_text: "This is a UNDP Purple Boot Initiative. You can contribute to the this on <a href='https://github.com/UNDP-Accelerator-Labs/Purple-Boot-initiative' target='_blank'>Github.</a>."
+logo_image_path: "https://www.undp.org/sites/g/files/zskgke326/files/2025-04/undp-logo-blue.4f32e17f.svg"
 
 
 # Footer Configuration
-footer_organization: "UNDP Accelerator Labs"
-about_url: "https://www.undp.org/acceleratorlabs"
+footer_organization: "UNDP"
+about_url: "https://www.undp.org/about-us"
 fraud_report_url: "https://www.undp.org/accountability/audit/investigations"
 scam_alert_url: "https://www.undp.org/scam-alert"
 terms_of_use_url: "https://www.undp.org/copyright-terms-use"
-current_year: 2023
+current_year: 2025
 copyright_holder: "United Nations Development Programme"
 linkedin_url: "https://www.linkedin.com/company/undp-accelerator-labs"
 twitter_url: "https://twitter.com/UNDPAccLabs"
 instagram_url: "https://www.instagram.com/acceleratorlabs/"
 
 # Image URLs
-logo_image_url: "/public/imgs/logo.png"
-partners_image_url: "/public/imgs/UNDP_Acc_Labs_Patners_2022_CorePartners_Horizontal_RGB.png"
-github_url: https://github.com/UNDP-Accelerator-Labs/toolkit-micro-site-template
+logo_image_url: "https://www.undp.org/sites/g/files/zskgke326/files/2025-04/undp-logo-blue.4f32e17f.svg"
+github_url: "https://github.com/UNDP-Accelerator-Labs/Purple-Boot-initiative"

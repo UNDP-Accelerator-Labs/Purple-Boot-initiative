@@ -64,10 +64,10 @@
     <meta property="og:title" content="{{ site.data.site_info.title }}">
     <meta property="og:description" content="{{ site.data.site_info.description }}">
     
-    <meta property="og:image" content="{{ site.baseurl }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png" />
-    <meta property="og:image:secure_url" content="{{ site.baseurl }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png" />
+    <meta property="og:image" content="{{ site.data.site_info.logo_image_url }}" />
+    <meta property="og:image:secure_url" content="{{ site.data.site_info.logo_image_url }}" />
     <meta property="og:image:width" content="400" />
-    <meta property="og:image:alt" content="UNDP Accelerator Labs Logo" />
+    <meta property="og:image:alt" content="UNDP Logo" />
 
     {% seo %}
   </head>
@@ -82,7 +82,7 @@
               <div class="cell small-8 large-8 shrink align-self-middle top-left">
                 <a href="{{ site.baseurl }}/" class="logo" tabindex="0" title="UNDP Logo homepage link">
                   <img
-                    src="{{ site.baseurl }}/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"
+                    src="{{ site.data.site_info.logo_image_url }}"
                     style="max-width: 30%; height: auto; margin-right: 1em;"
                     alt="UNDP Logo"
                   />
@@ -184,7 +184,7 @@
         </div>
         <!-- END SIDEBAR FRO MOBILE -->
         
-        {% include components/partial-header.html %}
+        <!-- {% include components/partial-header.html %} -->
         <div class="grid-container fluid content-bottom">
           <div class="grid-x margin-top-72">
             
@@ -312,7 +312,7 @@
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/lang-switcher.min.js"></script>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/scrolling-progressbar.min.js"></script>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/swiper.min.js"></script>
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/expand-search.min.js"></script>
+    <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/expand-search.min.js"></script> -->
 
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/filter-search-bar.min.js"></script>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@undp/design-system/docs/js/multi-select.min.js"></script>
@@ -336,7 +336,7 @@
       expandToSize('.pagehero-full');
       swiper('.fluid-carousel', '.slide-content'); 
 
-      expandSearch()
+      //expandSearch()
       multiSelect()
       toggleFilter()
     });

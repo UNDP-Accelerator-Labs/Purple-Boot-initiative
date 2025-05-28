@@ -1,4 +1,4 @@
-baseurl: "/toolkit-template"
+baseurl: "/Purple-Boot-initiative"
 plugins:
     - jekyll-seo-tag
 gems:
