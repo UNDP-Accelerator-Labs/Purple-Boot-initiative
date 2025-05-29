@@ -1,4 +1,4 @@
 ---
-title: Getting Started
+title: ¿Cómo se implementa Botas Violeta? 
 menu: 2
----
+--- 
