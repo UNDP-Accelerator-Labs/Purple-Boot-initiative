@@ -21,14 +21,14 @@ Botas Violeta parte de una mirada interseccional, comunitaria y de derechos, for
 
 Sigue estos pasos:
 
-**PASO 1:** Perfil de las y los participantes.
+**PASO 1:** Selección de participantes
 
-**PASO 2:** Selecciona los contenidos.
+**PASO 2:** Selección de contenidos
 
-**PASO 3:** Coordina los detalles de la implementación.
+**PASO 3:** Coordina la implementación
 
-**PASO 4:** Implementa los talleres.
+**PASO 4:** Implementa los talleres
 
-**PASO 5:** Sistematiza la información.
+**PASO 5:** Sistematiza la información
 
-**PASO 6:** Cierre de implementación.
+**PASO 6:** Cierre de implementación
