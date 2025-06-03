@@ -22,8 +22,8 @@ Sigue estos pasos:
 
 **PASO 2:** Escoge los contenidos
 
-**PASO 4:** Implementa los talleres
+**PASO 3:** Implementa los talleres
 
-**PASO 5:** Sistematiza la información
+**PASO 4:** Sistematiza la información
 
-**PASO 6:** Cierre de implementación
+**PASO 5:** Cierre de implementación
