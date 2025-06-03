@@ -1,5 +1,5 @@
 ---
-title: Espacios seguros: evitando la revictimización
+title: Espacios seguros, evitando la revictimización
 parent_order: 3
 nav_order: 2
 layout: default
