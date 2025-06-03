@@ -28,7 +28,4 @@ La Educación Popular parte de algunos principios que son fundamentales tener en
 - La educadora o el educador popular tiene un rol de acompañante para fomentar el interaprendizaje, conectando saberes, sentires y experiencias de las y los participantes.
 - La educadora o el educador popular evidencia y propicia el cambio a través de procesos pedagógicos, las opresiones de las mujeres por su condición de género en un contexto patriarcal.
 
-**Vídeo: Conoce nuestra historia**
-
-[Botas Violeta - Spot - YouTube](https://www.youtube.com/watch?v=8Z8eb-SFATg&embeds_referring_euri=https%3A%2F%2Fwww.undp.org%2F&embeds_referring_origin=https%3A%2F%2Fwww.undp.org&source_ve_path=MjM4NTE)
-
+**Conoce nuestra historia:** (https://www.youtube.com/watch?v=8Z8eb-SFATg&embeds_referring_euri=https%3A%2F%2Fwww.undp.org%2F&embeds_referring_origin=https%3A%2F%2Fwww.undp.org&source_ve_path=MjM4NTE)
