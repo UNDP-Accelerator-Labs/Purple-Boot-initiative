@@ -394,6 +394,14 @@
               >
                 <div class="grid-x">
                   <div class="cell medium-12">
+                    <input
+                      id="search"
+                      class="multi-select search-icon"
+                      placeholder="Looking for something?"
+                      type="text"
+                      aria-label="expand-search"
+                    />
+
                     <h6 class="" tabindex="0" data-viewport="false">Menu</h6>
                     <ul>
                       {% assign ordered_pages = site.pages | sort: 'menu' %} {%
