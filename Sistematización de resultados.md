@@ -1,0 +1,16 @@
+---
+title: Sistematización de resultados
+layout: default
+
+parent: Home
+has_children: false
+
+menu: 6
+---
+Algunas actividades ya cuentan con formatos para sistematizar la información recabada durante los talleres. Estos formatos nos ayudan como insumos para resaltar los resultados cualitativos y cuantitativos y realizar nuestro informe final de implementación.
+
+Para conocer qué actividades cuentan con un formato de sistematización, puedes revisar las guías metodológicas donde se especifica en cada actividad. Nuestras facilitadoras nos ayudan digitando la información recabada.
+
+Podrás encontrar los formatos de sistematización aquí:
+
+**\[Formatos sistematización\]**
