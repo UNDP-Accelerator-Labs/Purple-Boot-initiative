@@ -1,5 +1,5 @@
 ---
-title: Contributors
+title: Preguntas frecuentes
 layout: default
 
 parent: Home
