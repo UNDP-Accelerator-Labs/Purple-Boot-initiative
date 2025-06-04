@@ -4,9 +4,9 @@ layout: default
 has_children: true
 
 # CONFIGURATION BELOW IS ONLY NEEDED IF YOU WANT TO USE TAGS AND CATEGORY IN THE TOOLKIT
-tags: [poverty, inequality, women empoverment]
+tags: [gender equality, inequality, women empoverment]
 
-sdg: [No Poverty, Zero Hunger]
+sdg: [Reduce Inequality,Gender Equality]
 ---
 
 # Markdown Basics
