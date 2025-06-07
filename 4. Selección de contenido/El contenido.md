@@ -4,7 +4,10 @@ parent_order: 4
 nav_order: 1
 layout: default
 ---
-Elige qué contenidos se impartirán durante los talleres. Botas Violeta cuenta con cuatro guías metodológicas con diferentes actividades para tu elección:
+
+# El contenido
+
+Elige qué temáticas se impartirán durante los talleres. Botas Violeta cuenta con cuatro guías metodológicas con diferentes actividades para tu elección:
 
 ### Guía 1: Instituciones igualitarias
 
@@ -21,3 +24,5 @@ Elige qué contenidos se impartirán durante los talleres. Botas Violeta cuenta 
 ### Guía 4: Nuevas masculinidades
 
 - Analiza la construcción de las masculinidades para desnaturalizar ideas y comportamientos machistas. Ofrece herramientas para la construcción de masculinidades más igualitarias, corresponsables y justas.
+
+**Descarga aquí:** [Guías metodológicas]()
