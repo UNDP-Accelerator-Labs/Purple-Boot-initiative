@@ -4,6 +4,9 @@ parent_order: 5
 nav_order: 2
 layout: default
 ---
+
+# Coordinación de actividades
+
 Crear un cronograma que incluya todas las actividades de la implementación, incluyendo reuniones de planificación, con contrapartes, facilitadoras, etc., para que todo el equipo involucrado pueda conocer la información.
 
 Para facilitar la planificación de los talleres, crear un minuto a minuto incluyendo todas las actividades a desarrollarse durante el programa de formación incluyendo presentaciones iniciales, palabras de apertura, dinámicas de activación, _coffee breaks_, entrega de certificados, etc. Te sugerimos especificar quién estará encargada de cada actividad.
