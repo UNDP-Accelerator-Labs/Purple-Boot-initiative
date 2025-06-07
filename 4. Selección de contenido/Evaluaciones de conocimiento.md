@@ -11,5 +11,5 @@ Con la finalidad de medir el incremento de conocimientos y/ o cambio de percepci
 
 Realizar evaluaciones nos permite identificar el punto de partida, ajustar metodologías según las necesidades detectadas y evaluar el impacto real del taller. Estas herramientas son fundamentales para asegurar procesos formativos efectivos, generar aprendizajes significativos y mejorar continuamente la calidad de nuestras intervenciones.
 
-En cada guía metodológica podrás encontrar la evaluación correspondiente al contenido del módulo. Puedes crear nuevas preguntas según los contenidos de los talleres.
+**En cada guía metodológica podrás encontrar la evaluación correspondiente al contenido del módulo.** Puedes crear nuevas preguntas según los contenidos de los talleres.
 
