@@ -9,7 +9,7 @@ layout: default
 
 Crear un cronograma que incluya todas las actividades de la implementación, incluyendo reuniones de planificación, con contrapartes, facilitadoras, etc., para que todo el equipo involucrado pueda conocer la información.
 
-Para facilitar la planificación de los talleres, crear un minuto a minuto incluyendo todas las actividades a desarrollarse durante el programa de formación incluyendo presentaciones iniciales, palabras de apertura, dinámicas de activación, _coffee breaks_, entrega de certificados, etc. Te sugerimos especificar quién estará encargada de cada actividad.
+Para facilitar la planificación de los talleres, crea un minuto a minuto incluyendo todas las actividades a desarrollarse durante el programa de formación incluyendo presentaciones iniciales, palabras de apertura, dinámicas de activación, _coffee breaks_, entrega de certificados, etc. Te sugerimos especificar quién estará encargada de cada actividad.
 
 El minuto a minuto facilitará conocer en qué actividades se puede solicitar cobertura por parte del equipo de comunicación y coordinar espacios para grabar testimonios.
 
@@ -21,6 +21,6 @@ Una vez escogidos los temas a impartir durante los talleres Botas Violeta, recue
 
 Puedes encontrar todos nuestros materiales para imprimir a continuación:
 
-**Botón destacado: \[Material imprimible\]**
+**Descarga aquí:** [Imprimibles]()
 
 Una vez escogidas las actividades y designados los materiales correspondientes, se puede entregar los materiales a cada facilitadora o llevar todos los materiales el primer día de taller. Se recomienda coordinar con la contraparte para contar con un lugar específico para guardar los materiales durante los talleres.
