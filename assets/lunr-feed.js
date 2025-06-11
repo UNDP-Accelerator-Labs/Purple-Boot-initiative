@@ -11,6 +11,11 @@ var index = lunr(function () {
   this.ref('id')
 });
 
+function capitalize(str) {
+  return str && typeof str === 'string'
+    ? str.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')
+    : str;
+}
 
 {% assign count = 0 %}
 {% for post in site.pages %}
@@ -137,7 +142,7 @@ if(tags.length > 0){
         tg += `
             <li role="option">
                 <div class="form-check">
-                    <label for="tag${i+1}">${tags[i]?.toUpperCase()}</label>
+                    <label for="tag${i+1}">${capitalize(tags[i])}</label>
                     <input
                         type="checkbox"
                         id="${tags[i]}"
@@ -177,7 +182,7 @@ if(sdg.length > 0){
         tg += `
             <li role="option">
                 <div class="form-check">
-                    <label for="sdg${i+1}">${sdg[i]}</label>
+                    <label for="sdg${i+1}">${capitalize(sdg[i])}</label>
                     <input
                         type="checkbox"
                         id="${sdg[i]}"
